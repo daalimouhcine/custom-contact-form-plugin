@@ -16,6 +16,5 @@ Vous trouverez le menu 'Contact' dans votre panneau d'administration WordPress.
 
 # == Screenshots ==
 
-![AdminPlugin](https://user-images.githubusercontent.com/77882695/170387216-d8dcbb92-7486-4922-9c0e-fe06e70a7328.png)
 ------------------------------------------------------------------------------------------------------------------------
 ![userPlugin](https://user-images.githubusercontent.com/77882695/170387240-f90dbbda-2f2e-4cf0-9b9e-7d32a575cde8.png)
